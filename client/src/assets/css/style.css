@@ -1,0 +1,53 @@
+body{
+    background-color: #ffffff;
+  }
+  
+  /* header */
+  
+  header{
+    background-color: #f4f4f45e;
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  }
+  
+  .btn-menu{
+    text-align: end;
+  }
+  
+  #btn-header{
+    margin-left: 20px;
+    margin-top: 60px;
+  }
+  
+  /* Home */
+
+  /* Cadastro */
+
+  h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  #btn-cadastrar{
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
+  /* Editar cadastro */
+
+  #editar{
+    margin: 100px;
+  }
+
+  #btn-editar{
+    margin-top: 50px;
+  }
+
+  .close{
+    margin: 50px;
+  }

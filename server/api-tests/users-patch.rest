@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/users/4
+Content-Type: application/json
+
+{
+    "name": "Cadastro alterado",
+    "phone": "Uma novo numero"
+}
